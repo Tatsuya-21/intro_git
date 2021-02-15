@@ -1,7 +1,7 @@
 gitの練習をしていきます。
 基本的なワークフローを学びます。（2回目）
 ・git add （2回目）
-・git commit
+・git commit（勉強中）
 ・git rm
 ・git status
 ・git diff
